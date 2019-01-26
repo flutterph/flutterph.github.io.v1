@@ -144,9 +144,6 @@ p {
   h1 {
     font-size: 48px;
   }
-  h1::after {
-    height: 8px;
-  }
 }
 
 @media only screen and (max-width: 568px) {
@@ -155,9 +152,6 @@ p {
   }
   h1 {
     font-size: 30px;
-  }
-  h1::after {
-    height: 6px;
   }
   p {
     font-size: 18px;
@@ -170,9 +164,6 @@ p {
 @media only screen and (max-width: 320px) {
   h1 {
     font-size: 28px;
-  }
-  h1::after {
-    height: 4px;
   }
   .btn-small {
     font-size: 10px;
