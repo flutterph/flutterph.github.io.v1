@@ -124,8 +124,8 @@ p {
           transition: all 0.4s;
 }
 .btn:hover, .btn-small:hover {
-  color: #4abaf7;
-  border-color: #4abaf7;
+  color: #053e59;
+  border-color: #053e59;
 }
 
 .btn-small {
